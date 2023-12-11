@@ -1,4 +1,4 @@
-# CRUD Operations Decoded: Harnessing the Essence of Data Manipulation
+#  The CRUD Foundation of Appsn
 
 Have you ever saved a contact on your phone, updated your profile information on a social media site, or just deleted some old files from your computer? Congratulations, you’ve already performed CRUD operations without even knowing it!
 
